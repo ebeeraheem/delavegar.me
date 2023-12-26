@@ -606,6 +606,7 @@ h1{
   color: #b5b5b5;
   padding-left: 30px;
   margin-bottom: 3.3rem;
+  font-style: italic;
 }
 
 
@@ -656,8 +657,9 @@ h1{
   cursor: pointer;
   transition: all 5s ease-in-out;
   overflow: hidden;
-  margin-left: 22.3rem;
+  margin-left: 24.3rem;
   margin-bottom: 1.4rem;
+  margin-top: -19.3rem;
 }
 
 .project-card-2 a{
@@ -684,4 +686,10 @@ h1{
  font-size: 14px;
  font-weight: 400;
  line-height: 110%;
+}
+
+.section-recipe {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 110%;
 }
