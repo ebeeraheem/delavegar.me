@@ -656,13 +656,15 @@ h1{
   cursor: pointer;
   transition: all 5s ease-in-out;
   overflow: hidden;
+  margin-left: 22.3rem;
+  margin-bottom: 1.4rem;
 }
 
 .project-card-2 a{
  width: 100%;
  height: 100%;
  row-gap: 1.25rem;
- padding: 1.25rem 1.25rem 1.25rem;
+ padding: 1.25rem 1.25rem 1.5rem;
  display: flex;
  justify-content: center;
  align-items: flex-start;
