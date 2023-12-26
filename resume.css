@@ -578,11 +578,18 @@ h1{
   margin-left: -210px;
 }
 
+.vue-icon {
+  border-radius: 8px;
+  background: #333333;
+  outline: 2px solid #b5b5b5;
+  margin-left: -110px;
+}
 
 .project-1 {
   font-size: 35px;
   font-weight: 700;
   color: #b5b5b5;
+  margin-right: 25%;
 }
 
 /*box-1 */
