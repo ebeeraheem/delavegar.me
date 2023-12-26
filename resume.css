@@ -749,3 +749,86 @@ h1{
   cursor: pointer;
   margin-right: 52.3rem;
 }
+
+
+@media only screen and (min-width:390px) {
+  .socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 14.2rem;
+  }
+
+   .about-section {
+    background: #000;
+    border: 165px solid #000;
+    border-radius: 12px;
+    width: 10%;
+    height: 40px;
+    margin-right: 25%;
+    margin-top: 40px;
+    outline: 2px solid #b5b5b5;
+   }
+
+   .name-section {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 110%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -9.4rem;
+    word-spacing: 22.2rem;
+   }
+
+   .paragraph-1 {
+    font-size: 9px;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   }
+
+   .paragraph-2 {
+    font-size: 9px;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   }
+
+   .paragraph-3 {
+    font-size: 9px;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+   }
+   
+   .skills-0 {
+    margin-top: 8.5rem;
+   }
+
+   .box {
+    margin-right: -14.3rem;
+    margin-bottom: -11.4rem;
+   }
+
+   .footer-top {
+    margin-left: 40.5rem;
+   }
+
+
+   .footer-paragraph {
+    margin-left: 40.5rem;
+   }
+
+   .footer-socials {
+    margin-left: 40.5rem;
+   }
+
+   .project-card-1 {
+    margin-left: 24.3rem;
+   }
+}
