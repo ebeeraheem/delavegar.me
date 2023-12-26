@@ -619,6 +619,7 @@ h1{
    cursor: pointer;
    transition: all 5s ease-in-out;
    overflow: hidden;
+   margin: 2rem;
 }
 
 .project-card a{
@@ -660,7 +661,7 @@ h1{
 }
 
 
-.project-card-2{
+.project-card-1{
   width: 21.875rem;
   height: 23.125;
   border-radius: 1.5rem;
@@ -669,24 +670,24 @@ h1{
   cursor: pointer;
   transition: all 5s ease-in-out;
   overflow: hidden;
-  margin-left: 24.3rem;
+  margin-left: 28.3rem;
   margin-bottom: 1.4rem;
-  margin-top: -19.3rem;
+  margin-top: -21.3rem;
 }
 
-.project-card-2:focus {
+.project-card-1:focus {
    background: #006400;
 }
 
-.project-card-2:hover {
+.project-card-1:hover {
   background: #4169E1;
 }
 
-.project-card-2:active {
+.project-card-1:active {
   background: #0f0f0f;
 }
 
-.project-card-2 a{
+.project-card-1 a{
  width: 100%;
  height: 100%;
  row-gap: 1.25rem;
