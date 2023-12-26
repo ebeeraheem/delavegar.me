@@ -759,9 +759,33 @@ h1{
     margin-right: 14.2rem;
   }
 
+  .intro {
+    margin-right: 6.3rem;
+  }
+
+  .dev {
+    margin-left: -0.10rem;
+    margin: 1.1rem;
+  }
+
+  .resume {
+    margin-left: -0.10rem;
+    margin: 1.1rem;
+  }
+
+  .download  {
+    margin-left: -0.10rem;
+    margin: 1.1rem;
+  }
+
+  .rocket {
+    margin-left: -0.10rem;
+    margin: 1.1rem;
+  }
+
    .about-section {
     background: #000;
-    border: 165px solid #000;
+    border: 315px solid #000;
     border-radius: 12px;
     width: 10%;
     height: 40px;
@@ -782,6 +806,7 @@ h1{
    }
 
    .paragraph-1 {
+    width: 100%;
     font-size: 9px;
     font-weight: 300;
     display: flex;
