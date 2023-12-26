@@ -733,3 +733,18 @@ h1{
   color: #b5b5b5;
   margin-right: 35.4rem;
 }
+
+
+.footer-socials{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mail {
+  border-radius: 8px;
+  background: #333333;
+  outline: 2px solid #b5b5b5;
+  cursor: pointer;
+  margin-right: 52.3rem;
+}
