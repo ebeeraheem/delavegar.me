@@ -10,3 +10,11 @@ function handleButtonResume() {
     })
 }
 
+// keyboard  accessibilty socials
+function allSocials() {
+    document.querySelectorAll('#socials').addEventListener('keyup', (event)=> {
+       if (event.key === "Enter"){
+        event.target.click();
+       }
+    })
+}
