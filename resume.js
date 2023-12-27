@@ -20,6 +20,7 @@ function allSocials() {
 }
 
 
+
 // keyboard accessibility for project cards
 
 function projectCards() {
@@ -29,3 +30,4 @@ function projectCards() {
         }
     })
 }
+
